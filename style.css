@@ -1,0 +1,29 @@
+* {
+  font-size: xx-large;
+}
+.tbody {
+  display: flex;
+  flex-wrap: wrap;
+}
+.col {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 0.4rem;
+}
+.cell {
+  padding-inline: 0.3rem;
+}
+.up {
+  background-color: #009879;
+  color: white;
+}
+.down {
+  background-color: #ebebeb;
+}
+.none {
+  background-color: white;
+}
+hr {
+  margin-top: 0.3rem;
+  margin-bottom: 0.3rem;
+}
