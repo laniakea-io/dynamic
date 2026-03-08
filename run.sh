@@ -1,0 +1,1 @@
+bun run ./parser/div-table.js > ./parser/div-output.html
